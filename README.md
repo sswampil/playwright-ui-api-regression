@@ -1,6 +1,7 @@
 # Playwright UI & API Regression
 
 ![CI](https://github.com/sswampil/playwright-ui-api-regression/actions/workflows/playwright.yml/badge.svg)
+![Playwright Tests](https://github.com/sswampil/playwright-ui-api-regression/actions/workflows/playwright.yml/badge.svg)
 
 Mini regression suite using **Playwright + TypeScript**:
 - UI: OrangeHRM demo (smoke + login positive/negative)
