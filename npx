@@ -1,0 +1,17 @@
+[dotenv@17.2.1] injecting env (1) from .env -- tip: 📡 auto-backup env with Radar: https://dotenvx.com/radar
+
+Running 3 tests using 3 workers
+
+[dotenv@17.2.1] injecting env (0) from .env -- tip: 📡 version env with Radar: https://dotenvx.com/radar
+[dotenv@17.2.1] injecting env (0) from .env -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+[dotenv@17.2.1] injecting env (0) from .env -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+  ✓  2 [chromium] › tests\ui-smoke.spec.ts:4:7 › UI Smoke - OrangeHRM Demo › login page renders (5.8s)
+  ✓  3 [firefox] › tests\ui-smoke.spec.ts:4:7 › UI Smoke - OrangeHRM Demo › login page renders (5.7s)
+  ✓  1 [webkit] › tests\ui-smoke.spec.ts:4:7 › UI Smoke - OrangeHRM Demo › login page renders (7.2s)
+
+  3 passed (8.9s)
+
+To open last HTML report run:
+[36m[39m
+[36m  npx playwright show-report[39m
+[36m[39m
